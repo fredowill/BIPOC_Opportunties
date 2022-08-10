@@ -19,7 +19,7 @@
 |[ColorStack](https://www.colorstack.org/students) |Networking| Networking/Community/Opportunities|Fantastic company created to give Black and Latinx students a hub for other opportunites and peer review and just general advise. They have a slack that is super beneficial to join.|N/a|
 |[Meta](https://www.metacareers.com/careerprograms/pathways/metauniversity) |Meta University| Internship/Fellowship|Targeted towards historically underrepresented groups. Application has a 70-minute coding challenge.|Opening soon|
 |[Twitter](https://twitteracademy21.splashthat.com/) |Twitter Academy| Internship Program |Targeted towards historically underrepresented groups in their second year of CS!|Opening in Oct./Nov.|
-|[CodePath](https://apply.codepath.com/cohorts/interview-prep-fall-2022/versions/student/) |Technical Interview Prep Course|Career Readiness |A very useful tool to craft your interview and technical skills. They aslo have a [mentorship](https://www.codepath.org/career-services/mentorship?hsLang=en) to help navigate your tech career path. Targeted to POC's.|Aug. 16th 2022 for course, N/A for mentorship|
+|[CodePath](https://apply.codepath.com/cohorts/interview-prep-fall-2022/versions/student/) |Technical Interview Prep Course|Career Readiness |A very useful tool to craft your interview and technical skills. They aslo have a [mentorship](https://www.codepath.org/career-services/mentorship?hsLang=en) to help navigate your tech career path. Targeted to POC's.|Aug. 21st 2022 for course, N/A for mentorship|
 |[Twitter](https://twitteracademy21.splashthat.com/) |Twitter Academy| Internship Program |Targeted towards historically underrepresented groups in their second year of CS!|Opening in Oct./Nov.|
 
 
